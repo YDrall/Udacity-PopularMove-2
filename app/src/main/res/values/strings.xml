@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="sort_by">Sort By</string>
+    <string name="voting_Average">Vote Average</string>
+    <string name="release_date">Release Date</string>
+    <string name="watch_trailer_text">Watch trailer</string>
+    <string name="comments">Comments</string>
+    <string name="filter_by">Filter By</string>
+</resources>
